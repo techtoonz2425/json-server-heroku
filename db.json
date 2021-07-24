@@ -1,16 +1,22 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": "1",
+      "p_id": "12345",
+      "p_name": "qwer",
+      "p_cost": "12445"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "2",
+      "p_id": "12353",
+      "p_name": "qwer2",
+      "p_cost": "1245"
+    },
+    {
+      "p_id": 3242,
+      "p_name": "232",
+      "p_cost": 24,
+      "id": "AkZaYBL"
     }
   ]
 }
